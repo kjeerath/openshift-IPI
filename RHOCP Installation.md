@@ -30,7 +30,7 @@ prepare the bastion server to install OpenShift Container Platform. This include
 > **`aws --version`**
 
 4. Get the `OpenShift-installer` binary:
->*# Download stable version of OpenShift installer *
+>*# Download stable version of OpenShift installer*
 >
 > **`wget https://mirror.openshift.com/pub/openshift-v4/clients/ocp/stable-4.9/openshift-install-linux-4.9.23.tar.gz`**
 >
@@ -43,7 +43,7 @@ prepare the bastion server to install OpenShift Container Platform. This include
 >**`chmod +x /usr/bin/openshift-install`**
 
 5. Get the `oc` CLI Tool:
->*# Download stable version of OpenShift client *
+>*# Download stable version of OpenShift client*
 >
 > **`wget https://mirror.openshift.com/pub/openshift-v4/clients/ocp/stable-4.9/openshift-client-linux-4.9.23.tar.gz`**
 >
@@ -84,7 +84,7 @@ prepare the bastion server to install OpenShift Container Platform. This include
 
 10. Check to see that your credentials work:
 
-> **`aws sta get-caller-identity`**
+> **`aws sts get-caller-identity`**
 ## Sample Output
 
 ```
