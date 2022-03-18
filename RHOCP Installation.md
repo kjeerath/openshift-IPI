@@ -1,7 +1,7 @@
 
 # **OpenShift Container Platform Installation on AWS**
-
-## <span style="color: blue"> Set up Installation Prerequisites </span>
+<style>H2{color:Blue;}</style>
+## Set up Installation Prerequisites
 
 
 prepare the bastion server to install OpenShift Container Platform. This includes installing the AWS Command Line Interface , the OpenShift Installer , and the OpenShift CLI
