@@ -1,12 +1,11 @@
 
 # **OpenShift Container Platform Installation on AWS**
 
-## **<p style="color:Blue">Set up Installation Prerequisites</p>**
+## **<span style="color:Blue">Set up Installation Prerequisites</span>**
 
 prepare the bastion server to install OpenShift Container Platform. This includes installing the AWS Command Line Interface , the OpenShift Installer , and the OpenShift CLI
 
 1. Connect to your administration host
-
 > **`ssh <user name>@bastion.<Domain Name>`**
 
 2. Switch to ``root`` using the ``sudo`` command
