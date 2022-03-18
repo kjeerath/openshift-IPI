@@ -1,7 +1,8 @@
 
 # **OpenShift Container Platform Installation on AWS**
 
-## **<span style="color:blue">Set up Installation Prerequisites</span>**
+## **Set up Installation Prerequisites**
+{: .gitlab-purple}
 
 prepare the bastion server to install OpenShift Container Platform. This includes installing the AWS Command Line Interface , the OpenShift Installer , and the OpenShift CLI
 
