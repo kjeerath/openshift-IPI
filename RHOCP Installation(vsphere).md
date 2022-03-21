@@ -186,7 +186,7 @@ system:admin
 >`oc get nodes`
 
 ```
-NAME                    STATUS   ROLES    AGE   VERSION
+NAME                    STATUS    ROLES    AGE   VERSION
 vm-testvm-master-0       Ready    master   24m   v1.19.0+e49167a
 vm-testvm-worker-4dtqf   Ready    worker   17m   v1.19.0+e49167a
 vm-testvm-worker-lr8ll   Ready    worker   19m   v1.19.0+e49167a
